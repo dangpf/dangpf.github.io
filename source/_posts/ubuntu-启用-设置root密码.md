@@ -1,7 +1,7 @@
 ---
 title: ubuntu 启用&设置root密码
 date: 2018-08-13 14:26:08
-categorites: linux
+categories: linux
 tags:
   - linux
 ---
