@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>D&#39;s blog</title>
+  
+  <subtitle>12222222222222</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="dangpf.github.io/"/>
+  <updated>2018-08-13T06:31:33.528Z</updated>
+  <id>dangpf.github.io/</id>
+  
+  <author>
+    <name>dangpf</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ubuntu 启用&amp;设置root密码</title>
+    <link href="dangpf.github.io/2018/08/13/ubuntu-%E5%90%AF%E7%94%A8-%E8%AE%BE%E7%BD%AEroot%E5%AF%86%E7%A0%81/"/>
+    <id>dangpf.github.io/2018/08/13/ubuntu-启用-设置root密码/</id>
+    <published>2018-08-13T06:26:08.000Z</published>
+    <updated>2018-08-13T06:31:33.528Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;一、启用root&quot;&gt;&lt;a href=&quot;#一、启用root&quot; class=&quot;headerlink&quot; title=&quot;一、启用root&quot;&gt;&lt;/a&gt;一、启用root&lt;/h3&gt;&lt;p&gt;设置root允许ssh登录&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;vim
+        
+      
+    
+    </summary>
+    
+    
+      <category term="linux" scheme="dangpf.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="dangpf.github.io/2018/08/13/hello-world/"/>
+    <id>dangpf.github.io/2018/08/13/hello-world/</id>
+    <published>2018-08-13T02:54:19.089Z</published>
+    <updated>2018-08-13T02:54:19.089Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="test" scheme="dangpf.github.io/categories/test/"/>
+    
+    
+      <category term="标签1" scheme="dangpf.github.io/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+      <category term="标签2" scheme="dangpf.github.io/tags/%E6%A0%87%E7%AD%BE2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>断网环境下利用pip安装Python离线安装包</title>
+    <link href="dangpf.github.io/2018/07/19/pip-python-package/"/>
+    <id>dangpf.github.io/2018/07/19/pip-python-package/</id>
+    <published>2018-07-19T15:06:00.000Z</published>
+    <updated>2018-08-13T02:54:19.089Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;一、安装pip&quot;&gt;&lt;a href=&quot;#一、安装pip&quot; class=&quot;headerlink&quot; title=&quot;一、安装pip&quot;&gt;&lt;/a&gt;一、安装pip&lt;/h3&gt;&lt;h4 id=&quot;1、下载最新pip&quot;&gt;&lt;a href=&quot;#1、下载最新pip&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="python" scheme="dangpf.github.io/categories/python/"/>
+    
+    
+      <category term="pip" scheme="dangpf.github.io/tags/pip/"/>
+    
+      <category term="python" scheme="dangpf.github.io/tags/python/"/>
+    
+  </entry>
+  
+</feed>
