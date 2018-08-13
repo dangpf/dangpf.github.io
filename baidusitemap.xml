@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>dangpf.github.io/2018/08/13/ubuntu-%E5%90%AF%E7%94%A8-%E8%AE%BE%E7%BD%AEroot%E5%AF%86%E7%A0%81/</loc>
+    <lastmod>2018-08-13T06:41:06.341Z</lastmod>
+    <data>
+        <display>
+        <title>ubuntu 启用&设置root密码</title>
+        <pubTime>2018-08-13T06:26:08.000Z</pubTime>
+        
+        <tag>linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="linux" url="dangpf.github.io/categories/linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>dangpf.github.io/2018/08/13/hello-world/</loc>
+    <lastmod>2018-08-13T02:54:19.089Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-08-13T02:54:19.089Z</pubTime>
+        
+        <tag>标签1</tag>
+         
+        <tag>标签2</tag>
+         
+         
+           
+             
+              <breadCrumb title="test" url="dangpf.github.io/categories/test/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>dangpf.github.io/2018/07/19/pip-python-package/</loc>
+    <lastmod>2018-08-13T02:54:19.089Z</lastmod>
+    <data>
+        <display>
+        <title>断网环境下利用pip安装Python离线安装包</title>
+        <pubTime>2018-07-19T15:06:00.000Z</pubTime>
+        
+        <tag>pip</tag>
+         
+        <tag>python</tag>
+         
+         
+           
+             
+              <breadCrumb title="python" url="dangpf.github.io/categories/python/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+</urlset>
