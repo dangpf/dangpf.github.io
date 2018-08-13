@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="dangpf.github.io/"/>
-  <updated>2018-08-13T06:31:33.528Z</updated>
+  <updated>2018-08-13T06:41:06.341Z</updated>
   <id>dangpf.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="dangpf.github.io/2018/08/13/ubuntu-%E5%90%AF%E7%94%A8-%E8%AE%BE%E7%BD%AEroot%E5%AF%86%E7%A0%81/"/>
     <id>dangpf.github.io/2018/08/13/ubuntu-启用-设置root密码/</id>
     <published>2018-08-13T06:26:08.000Z</published>
-    <updated>2018-08-13T06:31:33.528Z</updated>
+    <updated>2018-08-13T06:41:06.341Z</updated>
     
     <summary type="html">
     
@@ -35,6 +35,8 @@
       
     
     </summary>
+    
+      <category term="linux" scheme="dangpf.github.io/categories/linux/"/>
     
     
       <category term="linux" scheme="dangpf.github.io/tags/linux/"/>
