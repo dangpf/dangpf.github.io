@@ -5,9 +5,9 @@
   <subtitle>12222222222222</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="dangpf.github.io/"/>
+  <link href="https://dangpf.github.io/"/>
   <updated>2018-08-14T00:22:13.929Z</updated>
-  <id>dangpf.github.io/</id>
+  <id>https://dangpf.github.io/</id>
   
   <author>
     <name>dangpf</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="dangpf.github.io/20180814/hello-world.html"/>
-    <id>dangpf.github.io/20180814/hello-world.html</id>
+    <link href="https://dangpf.github.io/20180814/hello-world.html"/>
+    <id>https://dangpf.github.io/20180814/hello-world.html</id>
     <published>2018-08-14T00:22:13.929Z</published>
     <updated>2018-08-14T00:22:13.929Z</updated>
     
@@ -35,19 +35,19 @@
     
     </summary>
     
-      <category term="test" scheme="dangpf.github.io/categories/test/"/>
+      <category term="test" scheme="https://dangpf.github.io/categories/test/"/>
     
     
-      <category term="标签1" scheme="dangpf.github.io/tags/%E6%A0%87%E7%AD%BE1/"/>
+      <category term="标签1" scheme="https://dangpf.github.io/tags/%E6%A0%87%E7%AD%BE1/"/>
     
-      <category term="标签2" scheme="dangpf.github.io/tags/%E6%A0%87%E7%AD%BE2/"/>
+      <category term="标签2" scheme="https://dangpf.github.io/tags/%E6%A0%87%E7%AD%BE2/"/>
     
   </entry>
   
   <entry>
     <title>ubuntu启用root用户-设置root密码</title>
-    <link href="dangpf.github.io/20180813/ubuntu-enable-root-user---set-root-password.html"/>
-    <id>dangpf.github.io/20180813/ubuntu-enable-root-user---set-root-password.html</id>
+    <link href="https://dangpf.github.io/20180813/ubuntu-enable-root-user---set-root-password.html"/>
+    <id>https://dangpf.github.io/20180813/ubuntu-enable-root-user---set-root-password.html</id>
     <published>2018-08-13T06:26:08.000Z</published>
     <updated>2018-08-14T00:58:36.083Z</updated>
     
@@ -64,17 +64,17 @@
     
     </summary>
     
-      <category term="linux" scheme="dangpf.github.io/categories/linux/"/>
+      <category term="linux" scheme="https://dangpf.github.io/categories/linux/"/>
     
     
-      <category term="linux" scheme="dangpf.github.io/tags/linux/"/>
+      <category term="linux" scheme="https://dangpf.github.io/tags/linux/"/>
     
   </entry>
   
   <entry>
     <title>断网环境下利用pip安装Python离线安装包</title>
-    <link href="dangpf.github.io/20180719/installation-of-python-offline-installation-package-using-pip-in-broken-network-environment.html"/>
-    <id>dangpf.github.io/20180719/installation-of-python-offline-installation-package-using-pip-in-broken-network-environment.html</id>
+    <link href="https://dangpf.github.io/20180719/installation-of-python-offline-installation-package-using-pip-in-broken-network-environment.html"/>
+    <id>https://dangpf.github.io/20180719/installation-of-python-offline-installation-package-using-pip-in-broken-network-environment.html</id>
     <published>2018-07-19T15:06:00.000Z</published>
     <updated>2018-08-14T00:22:14.001Z</updated>
     
@@ -90,12 +90,12 @@
     
     </summary>
     
-      <category term="python" scheme="dangpf.github.io/categories/python/"/>
+      <category term="python" scheme="https://dangpf.github.io/categories/python/"/>
     
     
-      <category term="pip" scheme="dangpf.github.io/tags/pip/"/>
+      <category term="pip" scheme="https://dangpf.github.io/tags/pip/"/>
     
-      <category term="python" scheme="dangpf.github.io/tags/python/"/>
+      <category term="python" scheme="https://dangpf.github.io/tags/python/"/>
     
   </entry>
   
