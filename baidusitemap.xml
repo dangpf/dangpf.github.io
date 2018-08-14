@@ -3,15 +3,12 @@
 
 
     
-    
-    
-    
   <url>
-    <loc>dangpf.github.io/20180813/ubuntu-enable-&-set-root-password.html</loc>
-    <lastmod>2018-08-14T00:22:15.557Z</lastmod>
+    <loc>dangpf.github.io/20180813/ubuntu-enable-root-user---set-root-password.html</loc>
+    <lastmod>2018-08-14T00:58:36.083Z</lastmod>
     <data>
         <display>
-        <title>ubuntu 启用&设置root密码</title>
+        <title>ubuntu启用root用户-设置root密码</title>
         <pubTime>2018-08-13T06:26:08.000Z</pubTime>
         
         <tag>linux</tag>
@@ -25,6 +22,9 @@
     </data>
     </url>
 
+    
+    
+    
     
   <url>
     <loc>dangpf.github.io/20180719/installation-of-python-offline-installation-package-using-pip-in-broken-network-environment.html</loc>
