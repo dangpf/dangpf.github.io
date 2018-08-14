@@ -1,10 +1,12 @@
 ---
 title: 断网环境下利用pip安装Python离线安装包
-date: 2018-07-19 23:06:00
 categories: python
 tags:
   - pip
   - python
+translate_title: >-
+  installation-of-python-offline-installation-package-using-pip-in-broken-network-environment
+date: 2018-07-19 23:06:00
 ---
 ### 一、安装pip
 

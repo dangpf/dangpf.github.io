@@ -13,9 +13,10 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: dangpf.github.io  #可以填写你的站点域名
+url: https://dangpf.github.io  #可以填写你的站点域名
 root: /
-permalink: :year/:month/:day/:title/
+#permalink: :year/:month/:day/:title/
+permalink: :year:month:day/:translate_title.html
 permalink_defaults:
 
 # Directory
@@ -83,6 +84,21 @@ feed:
   content:
   content_limit: 140
   content_limit_delim: ' '
+
+# sitemap
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
+
+translate_title: 
+  translate_way: baidu_no_appid # google,youdao,baidu_with_appid,baidu_no_appid 
+  is_need_proxy: false # true | false 
+  # proxy_url: http://localhost:1080 # Your proxy_url 
+  # youdao_api_key: '' # Your youdao_api_key 
+  # youdao_keyfrom: xxxx-blog # Your youdao_keyfrom 
+  # baidu_appid: '' # Your baidu_appid 
+  # baidu_appkey: '' # Your baidu_appkey
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

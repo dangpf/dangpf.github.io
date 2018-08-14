@@ -1,9 +1,10 @@
 ---
-title: ubuntu 启用&设置root密码
-date: 2018-08-13 14:26:08
+title: ubuntu启用root用户-设置root密码
 categories: linux
 tags:
   - linux
+translate_title: ubuntu-enable-root-user---set-root-password
+date: 2018-08-13 14:26:08
 ---
 ### 一、启用root
 设置root允许ssh登录
