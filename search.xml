@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F20180814%2Fhello-world.html</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[ubuntu 启用&设置root密码]]></title>
     <url>%2F20180813%2Fubuntu-enable-%26-set-root-password.html</url>
     <content type="text"><![CDATA[一、启用root设置root允许ssh登录 vim /etc/ssh/sshd_config 修改项：PermitRootLogin yes 二、设置root密码安装完Ubuntu后默认是没有主动设置root密码的，也就无法进入根用户。 用当前登录用户打开终端，在终端输入命令 sudo passwd，输入当前用户的密码然后回车 会提示输入新密码，输入完成后回车 然后提示再输入一次新密码以确认，然后回车，设置成功1234567linuxidc@ubuntu:~$ sudo passwd[sudo] password for linuxidc: 输入新的 UNIX 密码： 重新输入新的 UNIX 密码： passwd：已成功更新密码linuxidc@ubuntu:~$注意：这个新密码就是root的密码，可以与当前用户的密码不同。 在终端中输入 su root，然后输入root的密码，验证成功即可切换到root用户。在root用户下做完操作后，用exit命令即可退出root用户，退回当前登陆用户。]]></content>
@@ -9,18 +21,6 @@
       </categories>
       <tags>
         <tag>linux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F20180813%2Fhello-world.html</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
-      <categories>
-        <category>test</category>
-      </categories>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
       </tags>
   </entry>
   <entry>

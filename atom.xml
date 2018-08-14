@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="dangpf.github.io/"/>
-  <updated>2018-08-13T06:41:06.341Z</updated>
+  <updated>2018-08-14T00:22:13.929Z</updated>
   <id>dangpf.github.io/</id>
   
   <author>
@@ -17,38 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>ubuntu 启用&amp;设置root密码</title>
-    <link href="dangpf.github.io/20180813/ubuntu-enable-&amp;-set-root-password.html"/>
-    <id>dangpf.github.io/20180813/ubuntu-enable-&amp;-set-root-password.html</id>
-    <published>2018-08-13T06:26:08.000Z</published>
-    <updated>2018-08-13T06:41:06.341Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h3 id=&quot;一、启用root&quot;&gt;&lt;a href=&quot;#一、启用root&quot; class=&quot;headerlink&quot; title=&quot;一、启用root&quot;&gt;&lt;/a&gt;一、启用root&lt;/h3&gt;&lt;p&gt;设置root允许ssh登录&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;vim
-        
-      
-    
-    </summary>
-    
-      <category term="linux" scheme="dangpf.github.io/categories/linux/"/>
-    
-    
-      <category term="linux" scheme="dangpf.github.io/tags/linux/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
-    <link href="dangpf.github.io/20180813/hello-world.html"/>
-    <id>dangpf.github.io/20180813/hello-world.html</id>
-    <published>2018-08-13T02:54:19.089Z</published>
-    <updated>2018-08-13T02:54:19.089Z</updated>
+    <link href="dangpf.github.io/20180814/hello-world.html"/>
+    <id>dangpf.github.io/20180814/hello-world.html</id>
+    <published>2018-08-14T00:22:13.929Z</published>
+    <updated>2018-08-14T00:22:13.929Z</updated>
     
     <summary type="html">
     
@@ -72,11 +45,38 @@
   </entry>
   
   <entry>
+    <title>ubuntu 启用&amp;设置root密码</title>
+    <link href="dangpf.github.io/20180813/ubuntu-enable-&amp;-set-root-password.html"/>
+    <id>dangpf.github.io/20180813/ubuntu-enable-&amp;-set-root-password.html</id>
+    <published>2018-08-13T06:26:08.000Z</published>
+    <updated>2018-08-14T00:22:15.557Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;一、启用root&quot;&gt;&lt;a href=&quot;#一、启用root&quot; class=&quot;headerlink&quot; title=&quot;一、启用root&quot;&gt;&lt;/a&gt;一、启用root&lt;/h3&gt;&lt;p&gt;设置root允许ssh登录&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;vim
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="dangpf.github.io/categories/linux/"/>
+    
+    
+      <category term="linux" scheme="dangpf.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
     <title>断网环境下利用pip安装Python离线安装包</title>
     <link href="dangpf.github.io/20180719/installation-of-python-offline-installation-package-using-pip-in-broken-network-environment.html"/>
     <id>dangpf.github.io/20180719/installation-of-python-offline-installation-package-using-pip-in-broken-network-environment.html</id>
     <published>2018-07-19T15:06:00.000Z</published>
-    <updated>2018-08-13T02:54:19.089Z</updated>
+    <updated>2018-08-14T00:22:14.001Z</updated>
     
     <summary type="html">
     

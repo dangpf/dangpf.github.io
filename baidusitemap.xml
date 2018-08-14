@@ -3,9 +3,12 @@
 
 
     
+    
+    
+    
   <url>
     <loc>dangpf.github.io/20180813/ubuntu-enable-&-set-root-password.html</loc>
-    <lastmod>2018-08-13T06:41:06.341Z</lastmod>
+    <lastmod>2018-08-14T00:22:15.557Z</lastmod>
     <data>
         <display>
         <title>ubuntu 启用&设置root密码</title>
@@ -24,30 +27,8 @@
 
     
   <url>
-    <loc>dangpf.github.io/20180813/hello-world.html</loc>
-    <lastmod>2018-08-13T02:54:19.089Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2018-08-13T02:54:19.089Z</pubTime>
-        
-        <tag>标签1</tag>
-         
-        <tag>标签2</tag>
-         
-         
-           
-             
-              <breadCrumb title="test" url="dangpf.github.io/categories/test/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>dangpf.github.io/20180719/installation-of-python-offline-installation-package-using-pip-in-broken-network-environment.html</loc>
-    <lastmod>2018-08-13T02:54:19.089Z</lastmod>
+    <lastmod>2018-08-14T00:22:14.001Z</lastmod>
     <data>
         <display>
         <title>断网环境下利用pip安装Python离线安装包</title>
@@ -67,6 +48,25 @@
     </url>
 
     
-    
-    
+  <url>
+    <loc>dangpf.github.io/20180814/hello-world.html</loc>
+    <lastmod>2018-08-14T00:22:13.929Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-08-14T00:22:13.929Z</pubTime>
+        
+        <tag>标签1</tag>
+         
+        <tag>标签2</tag>
+         
+         
+           
+             
+              <breadCrumb title="test" url="dangpf.github.io/categories/test/"/>
+          
+        </display>
+    </data>
+    </url>
+
 </urlset>
